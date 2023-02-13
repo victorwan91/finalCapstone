@@ -32,6 +32,6 @@ Download "inventory.py" and "inventory.txt" then open them all in your choice of
 
 7. Select 0 to leave the programme
 
-## 3. Creditatioin
+## 3. Creditation
 This programme is developed by Ka Leung Wan @victorwan91
 Please contact me via email if you have any question: kaleung.s.wan91@gmail.com
